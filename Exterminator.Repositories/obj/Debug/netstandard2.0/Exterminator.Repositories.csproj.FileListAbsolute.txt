@@ -1,0 +1,12 @@
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Repositories/bin/Debug/netstandard2.0/Exterminator.Repositories.deps.json
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Repositories/bin/Debug/netstandard2.0/Exterminator.Repositories.dll
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Repositories/bin/Debug/netstandard2.0/Exterminator.Repositories.pdb
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Repositories/bin/Debug/netstandard2.0/Exterminator.Models.dll
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Repositories/bin/Debug/netstandard2.0/Exterminator.Models.pdb
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.csprojAssemblyReference.cache
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.csproj.CoreCompileInputs.cache
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.AssemblyInfoInputs.cache
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.AssemblyInfo.cs
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.csproj.CopyComplete
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.dll
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.pdb

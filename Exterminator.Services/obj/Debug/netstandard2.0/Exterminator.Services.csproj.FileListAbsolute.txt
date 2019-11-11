@@ -1,0 +1,14 @@
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Services/bin/Debug/netstandard2.0/Exterminator.Services.deps.json
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Services/bin/Debug/netstandard2.0/Exterminator.Services.dll
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Services/bin/Debug/netstandard2.0/Exterminator.Services.pdb
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Services/bin/Debug/netstandard2.0/Exterminator.Models.dll
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Services/bin/Debug/netstandard2.0/Exterminator.Repositories.dll
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Services/bin/Debug/netstandard2.0/Exterminator.Models.pdb
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Services/bin/Debug/netstandard2.0/Exterminator.Repositories.pdb
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Services/obj/Debug/netstandard2.0/Exterminator.Services.csprojAssemblyReference.cache
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Services/obj/Debug/netstandard2.0/Exterminator.Services.csproj.CoreCompileInputs.cache
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Services/obj/Debug/netstandard2.0/Exterminator.Services.AssemblyInfoInputs.cache
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Services/obj/Debug/netstandard2.0/Exterminator.Services.AssemblyInfo.cs
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Services/obj/Debug/netstandard2.0/Exterminator.Services.csproj.CopyComplete
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Services/obj/Debug/netstandard2.0/Exterminator.Services.dll
+/Users/isabellayr/Desktop/Haust18/VEFÞ/ClassAssignment6/template/Exterminator.Services/obj/Debug/netstandard2.0/Exterminator.Services.pdb
